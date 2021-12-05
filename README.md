@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on new Product Dashboard at Work!
 
-- 👨🏻‍💻 Working on Angular, TypeScript, Tailwind, Material UI, Sentry
+- 👨🏻‍💻 Working on Angular, Svelte, Web Components, TypeScript, Tailwind, Material UI, Sentry
 
 - 🌱 Experimenting with React/Vue
 
