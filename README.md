@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Pranav. I fell in love with web. 🙂
 
-- 🔭 I’m currently working on new Product Dashboard at Work!
+- 🔭 I’m currently working on new Fintech Product at India's 100th Unicorn!. Currently designing embedabble solutions/ widgets that feels like native app.
 
-- 👨🏻‍💻 Working on Angular, Svelte, Web Components, TypeScript, Tailwind, Material UI, Sentry
+- 👨🏻‍💻 Working on Angular, StencilJs, Svelte, Web Components, TypeScript, Tailwind, Material UI and Nx for monoRepo management.
 
 - 🌱 Experimenting with React/Vue
 
