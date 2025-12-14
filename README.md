@@ -28,7 +28,7 @@ I fell in love with the web through the eyes of a designer - building experience
 ```text
 Editor       : Cursor, Antigravity, Claude Code
 Frontend     : Vue, TypeScript, Tailwind, Next.js
-Design       : Figma, Canva, Photoshop
+Design       : ShadCN DS (fav), Figma, Canva, Photoshop
 AI           : Anthropic (fav), Gemini, GPT - based on usecases
 Cloud        : Supabase, Cloudflare, Basics of AWS.
 ```
