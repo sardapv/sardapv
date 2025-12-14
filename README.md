@@ -40,9 +40,6 @@ Cloud        : Supabase, Cloudflare, Basics of AWS.
   <a href="https://www.linkedin.com/in/sardapv/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/pranav.sarda_/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
 </p>
 
 
